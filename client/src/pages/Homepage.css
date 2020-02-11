@@ -1,0 +1,23 @@
+button {
+
+    background-color: beige;
+    color: black;
+    padding: 15px;
+    padding-right: 15px;
+    margin-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+div {
+    background-color: whitesmoke;
+    width: 100%;
+    border: blueviolet;
+    border-width: 5px;
+
+}
+input {
+    margin-right: 15px;
+    color: blue;
+    width: 50%;
+}

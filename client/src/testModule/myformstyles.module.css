@@ -1,0 +1,17 @@
+
+.body {
+    background-color: white;
+    color : black;
+    align-items: center;
+    padding-left: 10px;
+    
+  }
+
+.bigblue {
+    color: DodgerBlue;
+    padding: 40px;
+    padding-right: 40px;
+    background-color: rgb(21, 24, 24);
+    font-family: Arial;
+    text-align: center;
+ }
